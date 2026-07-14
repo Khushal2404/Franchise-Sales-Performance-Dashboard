@@ -83,4 +83,70 @@ The following KPIs were developed:
 
 ---
 
+---
 
+## 💡 Executive Insights
+
+The dashboard highlighted several key business findings:
+
+- Generated **1,778 leads** with an overall **conversion rate of 2.53%**.
+- **West Zone** contributed the highest franchise revenue.
+- **Starter Package** generated the highest total revenue.
+- **Growth Package** achieved the fastest average closure time (**6.5 days**).
+- **June** recorded the highest monthly franchise conversions.
+
+- ---
+
+## 📈 Business Recommendations
+
+Based on the analysis, the following recommendations were identified:
+
+- Improve lead qualification to increase the current conversion rate.
+- Replicate West Zone's sales strategy across underperforming regions.
+- Reduce Starter Package closure time through structured sales follow-ups.
+- Increase marketing efforts before high-performing months like June.
+- Monitor pipeline opportunities regularly to improve conversion into successful sales.
+- ---
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Lookup Functions
+- Data Cleaning Techniques
+- KPI Engineering
+- Business Analysis
+- ---
+
+## 🎯 Skills Demonstrated
+
+- Data Cleaning & Transformation
+- CRM Data Analysis
+- KPI Development
+- Sales Performance Analysis
+- Dashboard Design
+- Business Insight Generation
+- Executive Reporting
+- Data Visualization
+- Problem Solving
+- Analytical Thinking
+- ---
+
+## 📚 Key Learnings
+
+Through this project, I strengthened my ability to transform raw operational data into meaningful business insights. I gained hands-on experience in data cleaning, KPI engineering, dashboard design, and presenting analytical findings in a format suitable for business stakeholders.
+
+This project also reinforced the importance of data quality, clear reporting, and effective visualization in supporting data-driven decision-making.
+---
+
+## 🚀 Future Enhancements
+
+Future versions of this project may include:
+
+- Interactive slicers for dynamic dashboard filtering.
+- Power BI implementation for enhanced visualization.
+- Automated dashboard refresh using Power Query.
+- Sales forecasting using historical conversion trends.
+- Additional KPIs for customer acquisition and retention analysis.
+- 
