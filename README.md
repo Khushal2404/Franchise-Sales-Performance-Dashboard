@@ -149,4 +149,4 @@ Future versions of this project may include:
 - Automated dashboard refresh using Power Query.
 - Sales forecasting using historical conversion trends.
 - Additional KPIs for customer acquisition and retention analysis.
-- 
+  
